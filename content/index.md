@@ -1,11 +1,2 @@
-
-
-# Benjamin Martin
-
-
-## Projects
-- [[Active Directory Deployment]]
-- [[Asset Tracking]]
-- [[User Support]]
-- [[Logging and Monitoring]]
-- 
+# Introduction
+I'm a freelance IT analyst + computer nerd. Some of my technical interests are selfhosting, networking, and computer hardware. If I'm not sitting at a computer, there's a good chance I'm working with my hands, exploring another one of my passions. I've created this site to showcase all that is me, both professional and personal :) 
