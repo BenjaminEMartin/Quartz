@@ -1,4 +1,3 @@
---- title: Welcome to My Digital Garden description: This is the front page of my notes. ---
 
 
 # Benjamin Martin
